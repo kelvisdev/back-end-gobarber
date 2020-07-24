@@ -1,4 +1,4 @@
-import { MigrationInterface, QueryRunner, TableColumn, Table } from 'typeorm';
+import { MigrationInterface, QueryRunner, TableColumn } from 'typeorm';
 
 export default class AddAvatarFieldToUsers1588449967285
   implements MigrationInterface {
